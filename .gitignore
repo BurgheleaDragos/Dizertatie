@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ReadWriteFromUSB/.vs/ReadWriteFromUSB/v14/.suo
+/ReadWriteFromUSB/ReadWriteFromUSB/obj/Debug
+/ReadWriteFromUSB/ReadWriteFromUSB/bin/Debug
